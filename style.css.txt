@@ -1,0 +1,5 @@
+body
+{
+background-image:url(https://i.pinimg.com/originals/3c/65/0a/3c650a149986773eb80c4a91a4139c48.jpg);
+background:cover;
+}

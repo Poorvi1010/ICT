@@ -1,0 +1,16 @@
+function Starters()
+{
+    window.location="Starters.html";
+}
+function Main_Course()
+{
+    window.location="Main_Course.html"; 
+}
+function Beverages()
+{
+    window.location="Beverages.html"; 
+}
+function Desserts()
+{
+    window.location="Desserts.html"; 
+}
